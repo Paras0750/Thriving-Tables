@@ -15,16 +15,6 @@
       "static/chunks/main-app.js",
       "static/css/css-app_globals_css-node_modules_pnpm_next_14_2_0_react-dom_18_2_0_react_18_2_0__react_18_2_0-d250b9.css",
       "static/chunks/app/layout.js"
-    ],
-    "/(auth)/signin/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(auth)/signin/page.js"
-    ],
-    "/(auth)/signup/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(auth)/signup/page.js"
     ]
   }
 }
